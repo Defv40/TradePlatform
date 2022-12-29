@@ -108,7 +108,7 @@ const Body = () =>{
             </section>
             {/* Видео */}
             <section className="main__video">
-            <iframe class="video__frame" width="1000" height="500"
+            <iframe title="crypto" class="video__frame" width="1000" height="500"
                  src="https://www.youtube.com/embed/qJeGwT_bZbE?autoplay=0&amp;loop=1&amp;rel=0&amp;disablekb=1&amp;modestbranding=1&amp;iv_load_policy=3&amp;fs=0&amp;showinfo=0"
                 frameborder="0" 
                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture">

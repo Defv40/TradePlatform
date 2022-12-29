@@ -1,0 +1,100 @@
+.footer{
+    background-color: #262C31;
+    color: #7D7B7B;
+    padding: 0 80px;
+    &__info{
+        display: flex;
+        justify-content: space-between;
+        border-bottom: 1px solid #7d7b7b72;
+        padding: 40px 0;
+        .about_us {
+            flex: 1 1 0px;
+            .title{
+                color: white;
+                font-size: 20px;   
+            }
+            p{
+                font-size: 14px;
+            }
+            .links{
+               padding: 5px 0;
+               display: flex;
+               flex-direction: column;
+               gap: 20px; 
+                :hover{
+                    color: white;
+                }
+            }
+        }
+
+        .info__support{
+            flex: 1 1 0px;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            .support__section{
+                display: flex;
+                flex-direction: column;
+                .section__title{
+                    font-weight: bold;
+                    color: white;
+                    font-size: 14px;
+                }
+                .section__content{
+                    padding: 3px 0px 8px;
+                    
+                }
+                .section__content:hover{
+                    color: white;
+                 
+                }
+            }
+        }
+
+        .info__legal_documents{
+            display: flex;
+            flex: 1 1 0px;
+            flex-direction: column;
+            .legal_documents__title{
+                color: white;
+                font-size: 14px;
+                font-weight: bold;
+            }
+            .section__content{
+                padding: 10px 0;
+                
+            }
+            .section__content:hover{
+                color: white;
+            }
+        }
+    }
+    .footer__messangers{
+        display: flex;
+        justify-content: space-between;
+        border-bottom: 1px solid #7d7b7b72;
+        padding: 40px 0;
+        .messangers__messanger{
+            .messanger__title{
+                font-weight: bold;
+                color: white;
+            }
+            .messanger__content{
+                display: flex;
+                align-items: center;
+                gap: 3px;
+                .content__icon{
+
+                }
+                .content__text:hover{
+                    color:white;
+                }
+            }
+        }
+    }
+    .footer__copy_right{
+        text-align: center;
+        padding: 40px 0 20px;
+        font-size: 18px;
+    }
+}

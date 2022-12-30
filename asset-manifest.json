@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TradePlatform/static/css/main.caf02071.css",
+    "main.js": "/TradePlatform/static/js/main.048bad60.js",
+    "static/media/networking.png": "/TradePlatform/static/media/networking.8bafce98d85ea76f9b3c.png",
+    "static/media/money-exchange.png": "/TradePlatform/static/media/money-exchange.bcea129beef2b8f7da92.png",
+    "static/media/medal.png": "/TradePlatform/static/media/medal.b4da14b585c28396ba35.png",
+    "static/media/speedometer.png": "/TradePlatform/static/media/speedometer.a6f875295d4eea64941f.png",
+    "static/media/exchange_logo.png": "/TradePlatform/static/media/exchange_logo.999b82b5c62ec5d80dbc.png",
+    "static/media/shield.png": "/TradePlatform/static/media/shield.862d10f7fae48df904aa.png",
+    "static/media/telegram.png": "/TradePlatform/static/media/telegram.2b88ca8fc05aacdb62fa.png",
+    "static/media/investment.png": "/TradePlatform/static/media/investment.6c295887b88fb2d78293.png",
+    "static/media/danger.png": "/TradePlatform/static/media/danger.d88299a0059fc7826f6c.png",
+    "index.html": "/TradePlatform/index.html",
+    "main.caf02071.css.map": "/TradePlatform/static/css/main.caf02071.css.map",
+    "main.048bad60.js.map": "/TradePlatform/static/js/main.048bad60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.caf02071.css",
+    "static/js/main.048bad60.js"
+  ]
+}
